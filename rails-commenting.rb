@@ -9,7 +9,7 @@
 # ---1) The BlogPostsController inherits from the ApplicationController
 class BlogPostsController < ApplicationController
   def index
-
+ 
   # ---2) The index method is used to display all the blog posts
     @posts = BlogPost.all
   end
