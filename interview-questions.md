@@ -51,24 +51,24 @@ This will delete that instance from the database, Destroy
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. Read more about [user stories](https://www.atlassian.com/agile/project-management/user-stories).
 
-1) I can give a name to my to do list.
+1)As a user I can give a name to my to do list.
 
-2) I can add a task to my to do list.
+2)As a user I can add a task to my to do list.
 
-3) I can add a description and details to my task.
+3)As a user I can add a description and details to my task.
 
-4) I can mark my task as completed.
+4)As a user I can mark my task as completed.
 
-5) I can see my completed tasks.
+5)As a user I can see my completed tasks.
 
-6) I can see how long the task has been pending. 
+6)As a user I can see how long the task has been pending. 
 
-7) I can add more to do lists based on over all task (Work)(Chores)(School).
+7)As a user I can add more to do lists based on over all task (Work)(Chores)(School).
 
-8) I can edit the tasks description or details.
+8)As a user I can edit the tasks description or details.
 
-9) I can rearrenge the order of my tasks.
+9)As a user I can rearrenge the order of my tasks.
 
-10) I can delete a full to do list. 
+10)As a user I can delete a full to do list. 
 
  
